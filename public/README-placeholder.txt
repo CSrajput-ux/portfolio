@@ -1,2 +1,3 @@
 Add Chhotu-Rajput-Resume.pdf here.
-Replace project visual placeholders with real MUJCODE, MUJMart, and Health Helpix screenshots.
+The MUJCODE homepage screenshot is already in images/mujcode-home.png.
+Replace the JobPilot and Health Helpix visual placeholders when screenshots are available.
